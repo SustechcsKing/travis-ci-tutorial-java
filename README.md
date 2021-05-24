@@ -32,7 +32,7 @@ If you don't want it:
 - Remove the `after_success` target in `.travis.yml`
 - Remove the badge from `README.md`
 
-# Contributing
+# Contributing 
 
 Spotted a mistake? Questions? Suggestions?  
 [Open an Issue](https://github.com/joaomlneto/travis-ci-tutorial-java/issues/new)! 
